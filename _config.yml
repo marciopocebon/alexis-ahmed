@@ -1,25 +1,23 @@
 # Site settings
 title: Alexis Ahmed # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Cybersecurity Engineer & Security Researcher // Founder & CTO @HackerSploit.
 lang: en-US # default lang
 timezone: Africa/Nairobi # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/AlexisAhmed/alexis-ahmed # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Alexis Ahmed # author name
-  bio: >- # tell to the world
-
+  bio: Cybersecurity Engineer & Security Researcher # about me
   username: AlexisAhmed # author username
   github: AlexisAhmed
   twitter: HackerSploit
   facebook: HackerSploit
   email: alexis@hackersploit.org # your contact adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /assets/img/avatar.jpeg # change with your own avatar
 
 # Url settings
 url: "https://alexisahmed.com"

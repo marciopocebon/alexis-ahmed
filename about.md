@@ -1,18 +1,32 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+About Me
+I am a highly motivated young IT professional with over 6 years of experience in Penetration Testing and Information Security. I am well versed in securing enterprise networks, Linux servers and cloud infrastructure for companies and large organizations. I also have vast experience with Enterprise Linux system administration, specifically RHEL & CentOS. My core skills revolve around the following:
 
-If you have a question about him or else, just send a letter to him.
+Skill set:
+- Network Penetration Testing & Red Team Operations.
+- Wireless Network Penetration Testing & Security.
+- Setup & Configuration Of Firewalls & IDS’s.
+- Network Traffic Capture & Analysis.
+- Social Engineering & OSINT.
+- Linux System Administration.
+- Bash & Python Scripting.
+- Linux Server Security & Hardening.
+- AWS Penetration Testing, Security & Compliance.
+- Vulnerability Analysis & Patching.
+- Web Application Security Testing.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+I also have a keen interest in kernel hacking and reverse engineering. I am also a content creator with an audience of over 500,000 students and professionals, where I make videos and content on Penetration testing, Linux and malware analysis.
 
-##### may u needs ✨
+
+
+##### Contact Me ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
